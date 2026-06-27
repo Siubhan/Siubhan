@@ -26,7 +26,7 @@
 |---------------------------------------------------------------|------------------------------------------------------------------------|---------------|
 | [GUI MultiParser](https://github.com/Siubhan/MultiParser_GUI) | Desktop Web Scraper, JSON-history of collection                        | Python, PyQt6 |
 | [TUI Multiparser](https://github.com/Siubhan/MultiParser_TUI)  | Console HTML parser with interactive TUI. Cross-platform, minimal deps | Python, BeautifulSoup4 |
-
+| [Research Collector](https://github.com/Siubhan/Research-collector) | Firefox extension for saving quotes and sources while reading — no tab switching needed | JavaScript |
 ---
 
 ## 📧 Contacts
