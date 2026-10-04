@@ -29,6 +29,7 @@
 | [Research Collector](https://github.com/Siubhan/Research-collector) | Firefox extension for saving quotes and sources while reading — no tab switching needed | JavaScript |
 | [Portfolio](https://github.com/Siubhan/SA-Portfolio) | System analysis portfolio covering requirements, architecture, data models and API design | BPMN, UML, ERD, SQL, OpenAPI |
 | [Gesture FX](https://github.com/Siubhan/Gesture_capture) | Real-time gesture recognition with camera-triggered animations, face effects and sound | Python, OpenCV, MediaPipe, Pytest |
+| [Procrastination Alert](https://github.com/Siubhan/Procrastination_alert) | Local webcam-based procrastination detector: gaze tracking and phone detection with real-time audio/visual alerts | Python, OpenCV, MediaPipe, YOLO, Pytest |
 
 ---
 
