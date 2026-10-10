@@ -30,6 +30,23 @@
 | [Portfolio](https://github.com/Siubhan/SA-Portfolio) | System analysis portfolio covering requirements, architecture, data models and API design | BPMN, UML, ERD, SQL, OpenAPI |
 | [Gesture FX](https://github.com/Siubhan/Gesture_capture) | Real-time gesture recognition with camera-triggered animations, face effects and sound | Python, OpenCV, MediaPipe, Pytest |
 | [Procrastination Alert](https://github.com/Siubhan/Procrastination_alert) | Local webcam-based procrastination detector: gaze tracking and phone detection with real-time audio/visual alerts | Python, OpenCV, MediaPipe, YOLO, Pytest |
+| [Trip Planner](https://github.com/Siubhan/Trip_planner) | Travel planning service that aggregates weather forecasts, currency exchange rates, country information, and points of interest from external APIs. Features asynchronous requests, caching, and graceful handling of partial failures. | Python, AsyncIO, REST API, Pytest |
+
+---
+
+## 🧩 Skills & Interests
+
+| Area | Topics |
+|---|---|
+| System Analysis | Requirements Engineering, Functional & Non-functional Requirements, Use Cases, User Stories |
+| Business Process Modeling | BPMN 2.0, AS-IS / TO-BE, Business Rules |
+| System Design | UML, Sequence Diagrams, State Diagrams, C4 Model |
+| Data Modeling | ERD, Relational Databases, SQL |
+| API & Integrations | REST API, OpenAPI, HTTP, External API Integration |
+| Architecture | Client–Server, Layered Architecture, Asynchronous Processing |
+| Development | Python, JavaScript |
+| Quality Assurance | Pytest, Mocking, API Testing |
+| Tools | Git, GitHub, Postman, draw.io |
 
 ---
 
